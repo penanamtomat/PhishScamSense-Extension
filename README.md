@@ -2,6 +2,12 @@
 
 Real-time phishing and scam URL detection for Chrome and Firefox.
 
+
+
+https://github.com/user-attachments/assets/ae623486-be13-4b66-ad71-74ece957b422
+
+
+
 ## Install
 
 Go to the [**Releases**](../../releases) page and follow the instructions for your browser.
